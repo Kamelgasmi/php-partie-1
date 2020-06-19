@@ -1,0 +1,56 @@
+#calendar{
+    background-color: rgb(87, 182, 182);
+    border-style: dashed;
+    border-color: black;
+    padding-bottom: 30px;
+    text-align: center;
+}
+select{
+    width: 10%;
+    height: 40px;
+    font-size: 25px;
+    color: rgb(56, 148, 117);
+}
+h1{
+    font-family: fantasy;
+    color: aquamarine;
+}
+body{
+    background-color: rgb(157, 218, 241);
+}
+table{
+    margin-top: 30px;
+    border-color: black;
+    border-style:double;
+    background-color: aliceblue;
+}
+thead{
+    background-color: #1de6f5;
+    text-align: center;
+    margin-top: 20px;
+}
+th{
+    width:100px;
+    height:80px;
+    text-align: center;
+    border-color: black;
+    border-style:double;
+}
+td{
+    width:100px;
+    height:100px;
+    border-color: black;
+    border-style:double;
+}
+tr{
+    width:100px;
+    height:70px;
+    border-color: black;
+    border-style:double;
+}
+#valid{
+    margin-left: 20px;
+    background-color: aqua;
+    font-size: 25px;
+    border-radius: 7px;
+}
